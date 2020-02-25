@@ -1,12 +1,20 @@
 
 # App podcast
 
+[vista web.](https://app-podcast-pwa.now.sh)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto fuen creado con [Create React App](https://github.com/facebook/create-react-app).
 
+## Script:
 
 ### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Correr en modo desarrollo.<br />
+=> [http://localhost:3000](http://localhost:3000).
+
+### `yarn build`
+
+Crea el build para produccion.
+
+
 
